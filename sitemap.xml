@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/posts/my-first-post/</loc>
     <lastmod>2023-12-15T16:40:17+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/</loc>
     <lastmod>2023-12-15T16:40:17+01:00</lastmod>
   </url><url>
-    <loc>/tags/liberty/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/tags/liberty/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/surveillance/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/tags/surveillance/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/tags/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/language-perfect/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/posts/language-perfect/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/loyalty/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/tags/loyalty/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/sanity-not-statistical/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/posts/sanity-not-statistical/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/destruction-of-words/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/posts/destruction-of-words/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/controls-the-past/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/posts/controls-the-past/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/about/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/categories/</loc>
   </url><url>
-    <loc>/pages/</loc>
+    <loc>https://marti-labs.github.io/marti_earth_blog_public/pages/</loc>
   </url>
 </urlset>
