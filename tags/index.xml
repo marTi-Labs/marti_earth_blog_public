@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Winston Theme</title>
-    <link>https://marti-labs.github.io/marti_earth_blog_public/tags/</link>
+    <link>https://marti.earth/blog/tags/</link>
     <description>Recent content in Tags on Hugo Winston Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marti-labs.github.io/marti_earth_blog_public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marti.earth/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>liberty</title>
-      <link>https://marti-labs.github.io/marti_earth_blog_public/tags/liberty/</link>
+      <link>https://marti.earth/blog/tags/liberty/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://marti-labs.github.io/marti_earth_blog_public/tags/liberty/</guid>
+      <guid>https://marti.earth/blog/tags/liberty/</guid>
       <description></description>
     </item>
     <item>
       <title>surveillance</title>
-      <link>https://marti-labs.github.io/marti_earth_blog_public/tags/surveillance/</link>
+      <link>https://marti.earth/blog/tags/surveillance/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://marti-labs.github.io/marti_earth_blog_public/tags/surveillance/</guid>
+      <guid>https://marti.earth/blog/tags/surveillance/</guid>
       <description></description>
     </item>
     <item>
       <title>loyalty</title>
-      <link>https://marti-labs.github.io/marti_earth_blog_public/tags/loyalty/</link>
+      <link>https://marti.earth/blog/tags/loyalty/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://marti-labs.github.io/marti_earth_blog_public/tags/loyalty/</guid>
+      <guid>https://marti.earth/blog/tags/loyalty/</guid>
       <description></description>
     </item>
   </channel>
