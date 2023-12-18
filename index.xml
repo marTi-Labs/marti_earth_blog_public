@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>La jungle du greenwashing on Le blog marti</title><link>https://marti.earth/blog/</link><description>Recent content in La jungle du greenwashing on Le blog marti</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Mon, 18 Dec 2023 13:01:16 +0100</lastBuildDate><atom:link href="https://marti.earth/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>La jungle du greenwashing</title><link>https://marti.earth/blog/posts/la-jungle-du-greenwashing/</link><pubDate>Mon, 18 Dec 2023 13:01:16 +0100</pubDate><guid>https://marti.earth/blog/posts/la-jungle-du-greenwashing/</guid><description>À chaque achat éco-responsable, j’ai l’impression de traverser la jungle 🙈
-Trouver des produits qui correspondent à mes valeurs et qui permettent d’aller vers un monde plus vert, c’est une sacrée aventure.
-Et le problème justement, c’est qu’aujourd’hui tout est vert ! Ce n’est plus la marque de fabrique du bio ou de l’éthique : des marques comme McDo, H&amp;amp;M ou même des compagnies aériennes comme Frontier l’ont adoptée 🙃</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La jungle du greenwashing on Le blog marti</title>
+    <link>https://marti.earth/blog/</link>
+    <description>Recent content in La jungle du greenwashing on Le blog marti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 18 Dec 2023 13:01:16 +0100</lastBuildDate>
+    <atom:link href="https://marti.earth/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La jungle du greenwashing</title>
+      <link>https://marti.earth/blog/posts/la-jungle-du-greenwashing/</link>
+      <pubDate>Mon, 18 Dec 2023 13:01:16 +0100</pubDate>
+      <guid>https://marti.earth/blog/posts/la-jungle-du-greenwashing/</guid>
+      <description>À chaque achat éco-responsable, j’ai l’impression de traverser la jungle 🙈&#xA;Trouver des produits qui correspondent à mes valeurs et qui permettent d’aller vers un monde plus vert, c’est une sacrée aventure.&#xA;Et le problème justement, c’est qu’aujourd’hui tout est vert ! Ce n’est plus la marque de fabrique du bio ou de l’éthique : des marques comme McDo, H&amp;amp;M ou même des compagnies aériennes comme Frontier l’ont adoptée 🙃</description>
+    </item>
+  </channel>
+</rss>
