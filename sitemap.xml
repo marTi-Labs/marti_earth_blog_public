@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marti.earth/blog/posts/ue-interdit-greenwashing/</loc>
-    <lastmod>2024-01-19T14:15:02+01:00</lastmod>
-  </url><url>
     <loc>https://marti.earth/blog/</loc>
+    <lastmod>2024-02-29T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://marti.earth/blog/posts/pivot-2024/</loc>
+    <lastmod>2024-02-29T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://marti.earth/blog/posts/danone-championne-greenwashing/</loc>
+    <lastmod>2024-02-01T15:33:55+01:00</lastmod>
+  </url><url>
+    <loc>https://marti.earth/blog/posts/ue-interdit-greenwashing/</loc>
     <lastmod>2024-01-19T14:15:02+01:00</lastmod>
   </url><url>
     <loc>https://marti.earth/blog/posts/recap-2023/</loc>
